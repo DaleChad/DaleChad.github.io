@@ -9,11 +9,9 @@ html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
-      background: #3F4C6B;
 }
 body {
   margin: 0;
-  background-color: #3F4C6B;
 }
 article,
 aside,
