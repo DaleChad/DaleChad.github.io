@@ -914,7 +914,6 @@ background: -o-linear-gradient(-45deg,  #a7cfdf 0%,#23538a 100%); /* Opera 11.10
 background: -ms-linear-gradient(-45deg,  #a7cfdf 0%,#23538a 100%); /* IE10+ */
 background: linear-gradient(135deg,  #a7cfdf 0%,#23538a 100%); /* W3C */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a7cfdf', endColorstr='#23538a',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-
 }
 input,
 button,
